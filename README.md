@@ -1,5 +1,6 @@
 #Starter web project
-## introduction
+This is a simple website project to use git
+##introduction
 ##purpose
 ##Deployment
 ##how to contribute

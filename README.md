@@ -7,3 +7,5 @@ As stated above the main purpose is tpo showw examples
 ##Deployment
 this is the example of the deployment section
 ##how to contribute
+##Copyright
+copyright

@@ -1,1 +1,2 @@
- this is a text file created on humberto's conflict branch
+ this is a text file created on humberto's conflict2 branch
+ master branch change
